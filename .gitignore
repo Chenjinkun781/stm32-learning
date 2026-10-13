@@ -1,0 +1,21 @@
+# Keil 编译输出
+**/Objects/
+**/Listings/
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.map
+*.lnp
+*.build_log.htm
+*_Target_*.dep
+
+# 本机编辑器和调试偏好
+*.uvguix.*
+*.uvoptx
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
