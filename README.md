@@ -13,6 +13,8 @@
 | 2026-10-23 | [6-4 PWM 舵机角度控制](projects/6-4-servo-control/README.md) | 按键切换角度，PWM 脉宽映射与 OLED 显示 |
 | 2026-10-23 | [6-5 PWM 直流电机控制](projects/6-5-pwm-dc-motor/README.md) | 有符号控制命令、方向引脚和 PWM 调速 |
 | 2026-10-23 | [6-6 PWM 预分频草稿（未完成）](projects/6-6-pwm-prescaler-draft/README.md) | 保留尚未写完整的调用与函数，记录学习过程 |
+| 2026-10-26 | [6-7 PWMI 测频率与占空比](projects/6-7-input-capture-pwmi/README.md) | PWM 输出 + 输入捕获双通道，OLED 显示频率与占空比 |
+| 2026-10-26 | [6-8 编码器接口测速](projects/6-8-encoder-speed/README.md) | TIM3 编码器接口计数，OLED 显示 CNT 增量 |
 
 日期表示整理记录的日期，不代表代码最初编写的日期。
 
@@ -21,6 +23,7 @@
 - [2026-10-13：整理旋转编码器计数工程](logs/2026-10-13.md)
 - [2026-10-14：TIM2 内部时钟计时与外部时钟计数](logs/2026-10-14.md)
 - [2026-10-23：整理四个 PWM 学习工程](logs/2026-10-23.md)
+- [2026-10-26：归档 6-7、6-8 定时器进阶工程](logs/2026-10-26.md)
 
 ## 使用方法
 
